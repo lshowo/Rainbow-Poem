@@ -8,6 +8,7 @@ Green
 Unicorn
 Yellow
 Red
+lavender 
 
 These are the colors of the rainbow.
 And the unicorn.
